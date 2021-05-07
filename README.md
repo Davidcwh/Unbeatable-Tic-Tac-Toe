@@ -1,5 +1,5 @@
 # Unbeatable Tic Tac Toe
-[Try it out here](http://davidcwh.github.io/tic-tac-toe)
+[Try it out here](https://davidcwh.github.io/Unbeatable-Tic-Tac-Toe/)
 
 Everybody knows the simple game. 
 
