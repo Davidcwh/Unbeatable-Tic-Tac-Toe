@@ -1,7 +1,7 @@
 {
   "name": "tic-tac-toe",
   "version": "0.1.0",
-  "homepage": "http://davidcwh.github.io/tic-tac-toe",
+  "homepage": "https://davidcwh.github.io/Unbeatable-Tic-Tac-Toe/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
